@@ -6,15 +6,13 @@
 ### <div align="center">I'm Andrzej, a C++ and TS developer</div>  
   
 
-- 🔭 I’m currently working on [SafetyFirst](https://safetyfirst.ct8.pl)  
+<!-- - 🔭 I’m currently working on [SafetyFirst](https://safetyfirst.ct8.pl)   -->
   
-
 - 🌱 I’m currently learning Typescript  
-  
 
 - 📱How to reach me: manderla.andrze@gmail.com  
   
-- 🕹️My works: [itch.io](https://bialysztorm.itch.io)
+- 🕹️My works: [linktr.ee](https://linktr.ee/bialysztorm)
 
 - 📄Know about my experiences [LinkedIn](https://www.linkedin.com/in/andrzej-manderla/)  
   
