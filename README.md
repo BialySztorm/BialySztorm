@@ -10,7 +10,7 @@
   
 - 🌱 I’m currently learning Typescript  
 
-- 📱How to reach me: manderla.andrze@gmail.com  
+- 📱How to reach me: manderla.andrzej@gmail.com  
   
 - 🕹️My works: [linktr.ee](https://linktr.ee/bialysztorm)
 
