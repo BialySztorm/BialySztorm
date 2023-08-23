@@ -8,7 +8,7 @@
 
 <!-- - 🔭 I’m currently working on [SafetyFirst](https://safetyfirst.ct8.pl)   -->
   
-- 🌱 I’m currently learning Typescript  
+- 🌱 I’m currently learning C++ 
 
 - 📱How to reach me: manderla.andrzej@gmail.com  
   
