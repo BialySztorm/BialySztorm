@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">I'm Andrzej, a C++ and TS developer</div>  
+### <div align="center">I'm Andrzej, a C++ developer</div>  
   
 
 <!-- - 🔭 I’m currently working on [SafetyFirst](https://safetyfirst.ct8.pl)   -->
