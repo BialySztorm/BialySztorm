@@ -81,7 +81,7 @@
 ###
 
 <div align="center">
-  <img src="https://profile-counter.glitch.me/BialySztorm/count.svg?"  />
+  <img src="https://komarev.com/ghpvc/?username=BialySztorm&color=lightgrey&style=for-the-badge" align="center" />
 </div>
 
 ###
