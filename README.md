@@ -86,6 +86,9 @@
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=BialySztorm&color=lightgrey&style=for-the-badge" align="center" />
+  <a href="https://github.com/sponsors/BialySztorm">
+    <img src="https://img.shields.io/static/v1?label=Sponsor&message=%E2%9D%A4&logo=GitHub&color=pink&style=for-the-badge" alt="Sponsor" align="center" />
+  </a>
 </div>
 
 ###
