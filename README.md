@@ -66,6 +66,9 @@
 ###
 
 <div align="left">
+  <a href="https://manderla.dev" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=manderla.dev&logo=googlechrome&label=PORTFOLIO&color=202124&logoColor=white&labelColor=4285F4&style=for-the-badge" height="35" alt="portfolio banner" />
+  </a>
   <a href="https://discord.com/users/320549172887552001" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
   </a>
